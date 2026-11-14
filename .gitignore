@@ -1,4 +1,3 @@
-
 # Keil generated listing files
 **/Listings/
 
@@ -31,6 +30,8 @@
 # Generated build directories
 **/Debug/
 **/Release/
+**/DebugConfig/
+**/RTE/
 
 # Operating system files
 Thumbs.db
@@ -38,3 +39,4 @@ Desktop.ini
 .DS_Store
 
 # Keep .hex firmware files tracked
+!**/*.hex
